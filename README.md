@@ -1,2 +1,2 @@
 # Master-Thesis
-A serious 3D game with a virtual sidecick character based on AI
+A downloadable windows build of a 3D game used for the Play2Green project. Created for a computer science Master Thesis on FER.
